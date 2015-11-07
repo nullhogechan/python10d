@@ -1,0 +1,1 @@
+TEAMDATA=["Giants","Tigers","Dragons","Carp","Swallows","Bay Stars"]
